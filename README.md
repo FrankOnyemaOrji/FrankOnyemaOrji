@@ -10,7 +10,7 @@ Here is a quick summary about me**:
 - 🌱I’m learing Python, Flask and relearning Flutter.
 - 🤔 I’m looking for help with open source projects, entry-level opportunites.
 - 💬 Ask me about Flutter, Python and Flask.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Mobile Engineer, or Cloud Devops Engineer (Intern or Junior level).
 - 📫 How to reach me: contact me by emailing f.orji@alustudent.com.
 --
 
