@@ -3,7 +3,7 @@
 
 I'm an aspiring Backend & Cloud Devops Engineer, Story Teller, Student at African Leadership University, the Harvard of Africa, Backend Engineering student at AltschoolAfrica. I'm passionate about Backend web using Python, Cloud Devops, Technical Writing and Mobile(Flutter) Engineering, would like to speak at community events in the nearest future.
 
-Here is a quick summary about me**:
+**Here is a quick summary about me**:
 
 - 😊 Pronouns: He/Him
 - ⚡Fun fact: I'm currently studying at The African leadership University and AltSchoolAfrica [School of Software Engineering]
