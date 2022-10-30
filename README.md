@@ -7,7 +7,7 @@ I'm an aspiring Backend & Android Engineer, Story Teller, Student at African Lea
 
 - 😊 Pronouns: He/Him
 - ⚡Fun fact: I'm currently studying at The African leadership University and AltSchoolAfrica [School of Software Engineering]
-- 🌱I’m learing Python, Flask and relearning Flutter.
+- 🌱I’m learing Python, Flask and constantly relearning Flutter for fun.
 - 🤔 I’m looking for help with open source projects, entry-level opportunites.
 - 💬 Ask me about Flutter, Python and Flask.
 - 💼 Job interests: Software Engineer, Mobile Engineer, or Android Engineer (Intern or Junior level).
