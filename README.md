@@ -14,4 +14,4 @@ I'm an aspiring Backend & Android Engineer, Story Teller, Student at African Lea
 - 📫 How to reach me: contact me by emailing f.orji@alustudent.com.
 --
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=FrankOnyemaOrji&show_icons=true&include_all_commits=true&hide_border=true" alt="FrankOnyemaOrji's  GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="FrankOnyemaOrji's GitHub stats" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=FrankOnyemaOrji&show_icons=true&include_all_commits=true&hide_border=true" alt="FrankOnyemaOrji's  GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankOnyemaOrji&langs_count=8&layout=compact&hide_border=true" alt="FrankOnyemaOrji's GitHub stats" />
